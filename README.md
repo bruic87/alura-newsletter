@@ -1,8 +1,11 @@
-# React + Vite
+# React + Vite + TailwindCSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Curso guiado do portal Alura com a construção de um projeto.
 
-Currently, two official plugins are available:
+Nesse curso foi apresentado:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Como funciona a estilização com TailwindCSS;
+- Como criar componentes React estilizados e extensíveis;
+- Como desenvolver um padrão de design flexível e performático;
+- Como dominar as animações e transições; e
+- Como desenvolver aplicações mobile first e responsivas por padrão.
